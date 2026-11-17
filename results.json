@@ -1,9 +1,0 @@
-{
-  "student_id": "22-49447-3",
-  "test_accuracy": 0.9740740740740741,
-  "test_loss": 0.08241857168851076,
-  "best_validation_accuracy": 0.9629629629629629,
-  "epochs": 18,
-  "batch_size": 32,
-  "learning_rate": 0.001
-}
